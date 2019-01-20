@@ -1,0 +1,14 @@
+C:\Users\Can\source\repos\KeyPad\KeyPad\bin\Debug\KeyPad.exe.config
+C:\Users\Can\source\repos\KeyPad\KeyPad\bin\Debug\KeyPad.exe
+C:\Users\Can\source\repos\KeyPad\KeyPad\bin\Debug\KeyPad.pdb
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\MainWindow.g.cs
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\App.g.cs
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad_MarkupCompile.cache
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\MainWindow.baml
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.g.resources
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.Properties.Resources.resources
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.csproj.GenerateResource.cache
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.exe
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.pdb
+C:\Users\Can\source\repos\KeyPad\KeyPad\obj\Debug\KeyPad.csprojAssemblyReference.cache
